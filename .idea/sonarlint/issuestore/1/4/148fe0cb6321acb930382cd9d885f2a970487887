@@ -1,0 +1,16 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ù×åé
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤ÕçÔ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦ÀÜì
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(äåù’
+S	java:S106("9Replace this use of System.out or System.err by a logger.(£ÂÜ“øÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(þí•Þøÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ªŒ„¢ûÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(‡£ü€øÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(Þþ¯…ÿÿÿÿÿ
+[
+java:S16126"@Replace this lambda with method reference 'System.out::println'.(ßùûàøÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ßùûàøÿÿÿÿ
+V
+java:S16128"@Replace this lambda with method reference 'System.out::println'.(Ë²Ú‰
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(Ë²Ú‰

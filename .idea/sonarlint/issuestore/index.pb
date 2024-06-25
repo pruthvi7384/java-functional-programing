@@ -1,0 +1,27 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+R
+"src/main/java/imperative/Main.java,1\4\148fe0cb6321acb930382cd9d885f2a970487887
+Q
+!src/main/java/optionals/Main.java,f\f\ff5fe6c3fab453a5f96c33f0917db7639fdc0dc0
+R
+"src/main/java/streams/_Stream.java,f\9\f9e441aaabd6307d8a60ef0595f338256aeeeda9
+X
+(src/main/java/functional/_Predicate.java,5\0\507db44cb0d3e75017435a83c93e46b4943a89be
+W
+'src/main/java/functional/_Supplier.java,2\3\23430a65232c2591d720509de6f8f6f77c1921c9
+V
+&src/main/java/combinator/Customer.java,6\c\6c32868b3a7847f7777b879c1675f393e02a59b2
+f
+6src/main/java/combinator/CustomerValidatorService.java,e\e\ee2240d4f4df9d9bc0054e15b02db82dafd21d81
+R
+"src/main/java/combinator/Main.java,0\2\02a4f72cdca15c1b0c6ef07d87c9a718838f2982
+_
+/src/main/java/combinator/CustomerValidator.java,9\7\9770fb8964dbdb4a0bdcd413edeb711c5dd0347a
+W
+'src/main/java/functional/_Consumer.java,3\b\3b81f9a1f3d3c6b1e020febda9b95f35caefeaf8
+W
+'src/main/java/functional/_Function.java,a\a\aae40bc1eb8c850bf03221e6abc507225f625733
+O
+src/main/java/lambdas/Main.java,4\9\49764d05a21e4c6c578fda84abefcaa574e7ba50
